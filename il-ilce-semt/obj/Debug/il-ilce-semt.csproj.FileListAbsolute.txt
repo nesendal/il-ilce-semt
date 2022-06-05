@@ -1,0 +1,10 @@
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\bin\Debug\il-ilce-semt.exe.config
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\bin\Debug\il-ilce-semt.exe
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\bin\Debug\il-ilce-semt.pdb
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\obj\Debug\il-ilce-semt.csproj.AssemblyReference.cache
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\obj\Debug\il_ilce_semt.Form1.resources
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\obj\Debug\il_ilce_semt.Properties.Resources.resources
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\obj\Debug\il-ilce-semt.csproj.GenerateResource.cache
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\obj\Debug\il-ilce-semt.csproj.CoreCompileInputs.cache
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\obj\Debug\il-ilce-semt.exe
+C:\Users\nagihan\source\repos\il-ilce-semt\il-ilce-semt\obj\Debug\il-ilce-semt.pdb
